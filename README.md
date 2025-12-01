@@ -1,2 +1,1 @@
 # DeepfakeAI_MiniProject
-DeepfakeAI_MiniProject
